@@ -23,3 +23,11 @@ p{
     background: white; /* pick a color */
     border-radius: 25%;
 }
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(130, 204, 241); /* choose a color */
+    display: block;
+    margin: auto;
+    }
